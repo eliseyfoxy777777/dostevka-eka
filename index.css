@@ -1,0 +1,369 @@
+.zagalovok {
+	color: red;
+	text-align: center;
+	font-size: 60px;
+	padding-bottom: 5px;
+	
+}
+
+
+
+
+body {
+	background: linear-gradient(45deg, green, black);
+	font-family: sans-serif;
+}
+
+
+img {
+    display:block;
+	margin:auto;
+	width: 500px;
+}
+
+.zagalovok:hover {
+	color: white;
+	transition: 3s linear;
+
+}
+
+
+
+h1 {
+	color: #67E300;
+	text-align: center;
+	font-size: 60px;
+	border: 5px solid;
+	color: purple;
+	font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-shadow: -4px -4px 0px #D2EAD7;
+  background: repeating-linear-gradient(45deg, #6EB495, #6EB495 1px, white 2px, white 3px);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: table;
+  margin: 20px auto;
+  	
+  
+
+}
+
+img:hover {
+	transition: 50s linear;
+
+
+}
+
+a {
+	border: 4px solid;
+	border-radius: 10px;
+}
+
+h1:hover {
+    color: white;
+	transition: 3s linear;
+
+	
+}
+
+.text {
+	color: #67E300;
+	text-align: left;
+	font-size: 2em;
+  background: linear-gradient(135deg, red 20%, purple 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding: 0.3em 0.6em ;
+  border: 3px solid transparent;
+  border-image: linear-gradient(135deg, red 20%, purple 70%);
+  border-image-slice: 1;
+  font-style: oblique;
+
+}
+
+.kartinka {
+	width: 300px;
+}
+
+.kartinka:hover {
+	width: 290px;
+	transition: 3s linear;
+}
+
+.shapka {
+	height: 400px;
+	width: 600;
+	
+}
+
+.heh {
+	color: red;
+	text-align: center;
+	margin-top: 1px;
+	transform: translate( -2em, -0em);
+}
+
+.video3 {
+	text-align: right;
+}
+
+.info {
+	text-align: left;
+	color: blue;
+	font-size: 30px;
+	border: 5px solid;
+	font-size: 2em;
+  background: linear-gradient(135deg, blue 20%, red 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding: 0.3em 0.6em ;
+  border: 3px solid transparent;
+  border-image: linear-gradient(135deg, blue 20%, red 70%);
+  font-style: oblique;
+  border-image-slice: 1;
+
+ 
+}
+
+
+
+.shapka2 {
+	height: 400px;
+	width: 600;
+	position: relative;
+  top:-399px;
+}
+
+.info:hover {
+  font-size: 2em;
+  background: linear-gradient(135deg, purple 20%, red 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding: 0.3em 0.6em ;
+  border: 3px solid transparent;
+  border-image: linear-gradient(135deg, purple 20%, red 70%);
+  border-image-slice: 1;
+ 
+}
+
+.game {
+	color: white;
+	transform: translate( 0em, -7em);
+}
+
+.game:hover {
+	color: red;
+}
+
+.text:hover {
+	font-size: 2em;
+  background: linear-gradient(135deg, purple 20%, red 70%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  padding: 0.3em 0.6em ;
+  border: 3px solid transparent;
+  border-image: linear-gradient(135deg, purple 20%, red 70%);
+  border-image-slice: 1;
+
+}
+
+.shapka:hover {
+	width: 100px;
+	height: 80px;
+	transition: 50s linear;
+}
+
+.shapka2:hover {
+	width: 100px;
+	height: 80px;
+	transition: 50s linear;
+}
+
+.vtoroe {
+	transform: translate( 16em, 0em);
+}
+
+.n1 {
+    transform: translate( -29em, 6em);
+}
+
+.n1:hover {
+	-webkit-box-shadow: 14px 4px 8px 8px rgba(34, 60, 80, 0.8);
+-moz-box-shadow: 14px 4px 8px 8px rgba(34, 60, 80, 0.8);
+box-shadow: 14px 4px 8px 8px rgba(34, 60, 80, 0.8);
+	transition: 1s linear;
+}
+
+p {
+    color: #67E300(255, 0, 0);
+    width: 30px;
+	font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  text-shadow: -5px -5px 0px #EF7657;
+  background: radial-gradient(#9DA8A9 1px, transparent 1px);
+  background-size: 4px 4px;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: table;
+  margin: 20px auto;
+  transform: translate( -9em, 0em);
+}
+
+.n2 {
+	transform: translate( 29em, -33em);
+	
+}
+
+.n2:hover {
+	-webkit-box-shadow: 14px 4px 8px 8px rgba(34, 60, 80, 0.8);
+-moz-box-shadow: 14px 4px 8px 8px rgba(34, 60, 80, 0.8);
+box-shadow: 14px 4px 8px 8px rgba(34, 60, 80, 0.8);
+	transition: 1s linear;
+}
+
+.mem {
+	transform: translate( 9em, -10em);
+	
+
+}
+
+.cena {
+	color: #A9F16C; 
+	transform: translate( -10em, -8em);
+
+	
+
+}
+
+
+.cena2 {
+	transform: translate( 9em, 2.3em);
+	color: #A9F16C;
+}
+
+.memchik {
+	transform: translate( -10em, 2em);
+
+}
+
+.minecrfat {
+	transform: translate( 0em, 2em);
+	color: #A9F16C;
+	
+
+}
+
+
+.admin {
+	transform: translate( 0em, -8em);
+	color: #A9F16C;
+}
+
+
+table {
+  border-collapse: collapse; 
+  line-height: 1.1;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background:  radial-gradient(farthest-corner at 50% 50%, #439400, #439400);
+  color: black;
+}
+caption {
+  font-family: annabelle, cursive;
+  font-weight: bold;
+  font-size: 2em;
+  padding: 10px; 
+  color: #F3CD26;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+ }
+caption:before, caption:after {
+  content: "\274B";
+  color: #A9E2CC;
+  margin: 0 10px;
+}
+th {
+  padding: 10px; 
+  border: 1px solid #A9E2CC;
+}
+td {
+  font-size: 0.8em;
+  padding: 5px 7px;
+  border: 1px solid #A9E2CC;
+}
+.first {
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+}
+
+
+table {
+	transform: translate( 11em, -25em);
+
+}
+
+
+
+
+tr:hover {
+	color: #67E300;
+	transition: 3s linear;
+}
+
+
+a {
+	font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: repeating-linear-gradient(white, white 2px, #A9F16C 2px, #A9F16C 3px);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #A9F16C;
+  display: table;
+  margin: 20px auto;
+  transform: translate( -12em, 0em);
+
+}
+
+
+.memmm {
+	transform: translate( 0em, -65em);
+
+}
+
+
+.admin {
+	transform: translate( 0em, -15em);
+}
+
+
+table {
+	transform: translate( 10em, -45em);
+}
+
+
+.footer {
+	transform: translate( -10em, -14em);
+}
+
+.emmeme {
+	transform: translate( 0em, -13em);
+}
+
+.none {
+	transform: translate( 9em, -3em);
+}
+
+.footerimg {
+	transform: translate( 0em, -23em);
+}
+
+footer {
+	color black;
+}
+
